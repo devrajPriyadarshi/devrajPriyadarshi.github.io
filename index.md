@@ -10,8 +10,8 @@ A Third Year Undergraduate student of Electronics and Electrical Communications 
 
 ## Interests
 
-- **Robotics** autonomous UAVs, Control, Planning
-- **Computer Vision:** Color Representation and Color Vision, Object Detection, Inpainting
-- **Reinforcement Learning:** Learning based control policies
+- **Robotics:** Autonomous UAVs, Control, Planning.
+- **Computer Vision:** Color Representation and Color Vision, Object Detection, GANs.
+- **Reinforcement Learning:** Learning based Control for UAVs.
 
 
