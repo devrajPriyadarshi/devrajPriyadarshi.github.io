@@ -6,13 +6,12 @@ layout: homepage
 
 Hi, I'm Devraj Priyadarshi!
 
-A Third Year Undergraduate student of Electronics and Electrical Communications at IIT Kharagpur.
-I'm currently working to learn more in fields of Robotics and Computer Vision.
+An Undergraduate student at IIT Kharagpur.
+I'm currently working to learn more in fields of  Vision and Robotics.
 
 # Interests
 
 - **Robotics:** Autonomous UAVs, Control, Planning.
-- **Computer Vision:** Color Representation and Color Vision, Object Detection, GANs.
+- **Computer Vision:** GANs, Segmentation and Detection, Color Representation.
 - **Reinforcement Learning:** Learning based Control for UAVs.
-
-
+- **Generative Art:** Flow Fields, Differential Lines. 
