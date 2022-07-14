@@ -51,7 +51,7 @@ Based on the original paper : [A Neural Algorithm of Artistic Style](https://arx
 
   <img width="30%" height="30%" src="./projects/DeepNeuralStyleTransfer/Content/city0.jpg" >
 
-  <img width="30%" height="146" src="./projects/DeepNeuralStyleTransfer/Style/0.jpg" >
+  <img width="30%" src="./projects/DeepNeuralStyleTransfer/Style/0.jpg" >
   
   <img width="30%" height="30%" src="./projects/DeepNeuralStyleTransfer/Results/city0.jpg" >
 
