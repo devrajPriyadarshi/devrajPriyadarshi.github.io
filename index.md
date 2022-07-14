@@ -25,16 +25,16 @@ Structure from motion is a technique to perceive depth by utilizing movement. Th
 
 Images of Scene:
 <p align="center" width="100%">
-  <img width="33%" src="./projects/sparse3DReconstruction/fountain-P11/images/0001.jpg" >
-  <img width="33%" src="./projects/sparse3DReconstruction/fountain-P11/images/0005.jpg" >
-  <img width="33%" src="./projects/sparse3DReconstruction/fountain-P11/images/0008.jpg" >
+  <img width="27%" src="./projects/sparse3DReconstruction/fountain-P11/images/0001.jpg" >
+  <img width="27%" src="./projects/sparse3DReconstruction/fountain-P11/images/0005.jpg" >
+  <img width="27%" src="./projects/sparse3DReconstruction/fountain-P11/images/0008.jpg" >
 </p>
 
 3D Reconstruction:
 <p align="center" width="100%">
-  <img width="33%" src="./projects/sparse3DReconstruction/results/snapshot_00.png" >
-  <img width="33%" src="./projects/sparse3DReconstruction/results/snapshot_01.png" >
-  <img width="33%" src="./projects/sparse3DReconstruction/results/snapshot_02.png" >
+  <img width="27%" src="./projects/sparse3DReconstruction/results/snapshot_00.png" >
+  <img width="27%" src="./projects/sparse3DReconstruction/results/snapshot_01.png" >
+  <img width="27%" src="./projects/sparse3DReconstruction/results/snapshot_02.png" >
 </p>
 
 ### Deep-Neural-Style-Transfer
@@ -51,7 +51,7 @@ Based on the original paper : [A Neural Algorithm of Artistic Style](https://arx
 
   <img width="30%" height="30%" src="./projects/DeepNeuralStyleTransfer/Content/city0.jpg" >
 
-  <img width="30%" src="./projects/DeepNeuralStyleTransfer/Style/0.jpg" >
+  <img width="33.6%" src="./projects/DeepNeuralStyleTransfer/Style/0.jpg" >
   
   <img width="30%" height="30%" src="./projects/DeepNeuralStyleTransfer/Results/city0.jpg" >
 
