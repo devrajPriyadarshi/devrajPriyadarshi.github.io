@@ -13,7 +13,7 @@ img {
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Monospace', "roboto";
+    font-family: 'Monospace', roboto;
     background-color: #101214;
     color: #CCC8C7;
 
@@ -25,7 +25,7 @@ h2,
 }
 
 a {
-    color: #47594F;
+    color: #404C4A;
     text-decoration: none;
 }
 
