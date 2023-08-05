@@ -1,5 +1,6 @@
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
 
 .grid-2 {
     display: grid;
@@ -13,7 +14,7 @@ img {
 body {
     margin: 0;
     padding: 0;
-    font-family: monospace, roboto;
+    font-family: "Ubuntu Mono", roboto;
     background-color: #101214;
     color: #CCC8C7;
 
