@@ -1,6 +1,7 @@
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 
 .grid-2 {
     display: grid;
@@ -14,15 +15,26 @@ img {
 body {
     margin: 0;
     padding: 0;
-    font-family: "Ubuntu Mono", roboto;
+    font-family: "Afacad";
     background-color: #101214;
     color: #CCC8C7;
+    font-size: larger;
 
+}
+
+h1,
+.white {
+    color: #A38F76;
 }
 
 h2,
 .white {
     color: #A38F76;
+}
+
+h3,
+.white {
+    color: #738c87;
 }
 
 a {
@@ -72,7 +84,7 @@ a {
 }
 
 .section-2 a {
-    display: block;
+    /* display: block; */
     padding: 5px;
     font-size: 1.2rem;
     padding-left: 0;
@@ -81,7 +93,7 @@ a {
 
 /* animations / utilities */
 .section-2 a:hover {
-    font-size: 1.3rem;
+    /* font-size: 1.3rem; */
     color: #fff;
     cursor: pointer;
     transition: 0.2s;
