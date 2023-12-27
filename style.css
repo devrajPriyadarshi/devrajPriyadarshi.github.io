@@ -7,14 +7,22 @@
 
 .grid-2 {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 600px 1fr;
+    /* grid-template-columns: repeat(2, 1fr); */
 }
 
-img {
+.prof_img {
     border-radius: 50%;
     border: 5px solid #b0b3b6;
     /* border: 5px solid #212529; */
     padding: 0.5ex;
+}
+
+.genart_img{
+    border-radius: 10%;
+    object-fit: cover;
+    /* height: 2.5%; */
+    /* aspect-ratio: 1; */
 }
 
 body {
