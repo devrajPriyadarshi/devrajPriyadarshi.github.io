@@ -12,55 +12,47 @@
 
 img {
     border-radius: 50px;
-    /* border: 2px solid #A38F76; */
+    border: 2px solid #212529;
 }
 
 body {
     margin: 0;
     padding: 0;
-    /* font-family: "PT Mono"; */
-    background-color: #101214;
-    /* color: #CCC8C7; */
+    background-color: #E9ECEF;
     font-size: larger;
 
 }
 
 p{
-    /* font-family: "Fira Mono"; */
-    font-family: "Afacad";
-    color: #b6b5b5;
-    /* color: #CCC8C7; */
-    /* font-size: 100%; */
+    font-family: "Ubuntu Mono";
+    color: #6C757D;
 }
-b, strong{
-    /* color: #d15334; */
-    font-weight: 400;
-    color: #ffffff;
-}
+
 h1,
 .white {
     font-family: "Afacad";
-    color: #A38F76;
-    font-weight: 200;
+    color: #212529;
+    /* font-weight: 200; */
 }
 
 h2,
 .white {
     font-family: "Afacad";
-    font-weight: 200;
-    color: #A38F76;
+    /* font-weight: 200; */
+    color: #212529;
 }
 
 h3,
 .white {
     font-family: "Afacad";
-    font-weight: 200;
-    color: #738c87;
+    /* font-weight: 200; */
+    color: #343A40;
 }
 
 a {
-    color: #738c87;
-    text-decoration: none;
+    color: #495057;
+    /* text-decoration: none; */
+    text-decoration: underline;
 }
 
 /******************* section 1 **********************/
@@ -72,9 +64,18 @@ a {
 }
 
 .section-1 p {
-    font-size: 1.1rem;
-    padding-bottom: 10px;
+    font-family: "Afacad";
+    font-size: 1.2rem;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    color: #495057;
     margin: 0;
+}
+
+.section-1 h1 {
+    font-size: 2.2rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .section-1 h2 {
@@ -83,9 +84,17 @@ a {
 }
 
 .section-1 a {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     padding: 4.5px;
-    border: 2px solid #738c87;
+    border: 2px solid #495057;
+    border-radius: 10px;
+}
+
+.section-1 a:hover {
+    color: #6C757D;
+    cursor: pointer;
+    transition: 0.3s;
+    border: 2px solid #6C757D;
     border-radius: 10px;
 }
 
@@ -94,6 +103,12 @@ a {
     padding-top: 10vh;
     padding-bottom: 5vh;
     width: 70%;
+}
+
+.section-2 h1 {
+    font-size: 3rem;
+    font-weight: 500;
+    margin-bottom: 10px;
 }
 
 .section-2 h2 {
@@ -117,17 +132,9 @@ a {
 /* animations / utilities */
 .section-2 a:hover {
     /* font-size: 1.3rem; */
-    color: #fff;
+    color: #6C757D;
     cursor: pointer;
     transition: 0.2s;
-}
-
-.section-1 a:hover {
-    color: #fff;
-    cursor: pointer;
-    transition: 0.3s;
-    border: 2px solid #fff;
-    border-radius: 10px;
 }
 
 .white:hover {
