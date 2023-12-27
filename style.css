@@ -11,8 +11,10 @@
 }
 
 img {
-    border-radius: 50px;
-    border: 2px solid #212529;
+    border-radius: 50%;
+    border: 5px solid #b0b3b6;
+    /* border: 5px solid #212529; */
+    padding: 0.5ex;
 }
 
 body {
@@ -58,7 +60,7 @@ a {
 /******************* section 1 **********************/
 
 .section-1 {
-    padding-top: 5vh;
+    padding-top: 15vh;
     padding-bottom: 5vh;
     text-align: center;
 }
@@ -84,9 +86,9 @@ a {
 }
 
 .section-1 a {
-    font-size: 1.3rem;
+    font-size: 1.7rem;
     padding: 4.5px;
-    border: 2px solid #495057;
+    /* border: 2px solid #495057; */
     border-radius: 10px;
 }
 
