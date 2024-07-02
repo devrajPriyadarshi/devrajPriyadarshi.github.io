@@ -3,8 +3,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&display=swap');
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap"); */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&display=swap');*/
+/* @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap"); */
+
+@font-face {
+    font-family: 'Calibri';
+    src: url('assets/font/calibrib.ttf'); 
+    font-weight:600;
+}
+
+@font-face {
+    font-family: 'Calibri';
+    src: url('assets/font/calibri.ttf'); 
+    font-weight:400;
+}
+
+@font-face {
+    font-family: 'Calibri';
+    src: url('assets/font/calibril.ttf'); 
+    font-weight:100;
+}
 
 .grid-2 {
     display: grid;
@@ -42,35 +60,35 @@ body {
 }
 
 p{
-    font-family: Calibri;
+    font-family: "Calibri";
     font-weight: 100;
     color: #313131;
 }
 
 h1,
 .white {
-    font-family: Calibri;
+    font-family: "Calibri";
     color: #292929;
     font-weight: 600;
 }
 
 h2,
 .white {
-    font-family: Calibri;
+    font-family: "Calibri";
     font-weight: 400;
     color: #2a2a2a;
 }
 
 h3,
 .white {
-    font-family: Calibri;
+    font-family: "Calibri";
     font-weight: 400;
     color: #3e3e3e;
 }
 
 h3-dim,
 .white {
-    font-family: Calibri;
+    font-family: "Calibri";
     font-weight: 400;
     color: #414141;
 }
