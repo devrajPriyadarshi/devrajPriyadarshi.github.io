@@ -219,9 +219,13 @@ li{
         grid-template-columns: 1fr;
     }
 
+    .grid-hist {
+        grid-template-columns: auto;
+    }
+
     .img-hist{
-        aspect-ratio: 1.333;
-        width: 100%;
+        /* aspect-ratio: 1.333; */
+        width: 30%;
         /* margin-right: -50ex; */
     }
     
