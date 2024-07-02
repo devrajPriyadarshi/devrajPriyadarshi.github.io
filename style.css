@@ -42,35 +42,35 @@ body {
 }
 
 p{
-    font-family: "Calibri";
+    font-family: Calibri;
     font-weight: 100;
     color: #313131;
 }
 
 h1,
 .white {
-    font-family: "Calibri";
+    font-family: Calibri;
     color: #292929;
     font-weight: 600;
 }
 
 h2,
 .white {
-    font-family: "Calibri";
+    font-family: Calibri;
     font-weight: 400;
     color: #2a2a2a;
 }
 
 h3,
 .white {
-    font-family: "Calibri";
+    font-family: Calibri;
     font-weight: 400;
     color: #3e3e3e;
 }
 
 h3-dim,
 .white {
-    font-family: "Calibri";
+    font-family: Calibri;
     font-weight: 400;
     color: #414141;
 }
