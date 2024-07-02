@@ -7,19 +7,19 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap"); */
 
 @font-face {
-    font-family: 'Calibri';
+    font-family: 'hehehe';
     src: url('assets/font/calibrib.ttf'); 
     font-weight:600;
 }
 
 @font-face {
-    font-family: 'Calibri';
+    font-family: 'hehehe';
     src: url('assets/font/calibri.ttf'); 
     font-weight:400;
 }
 
 @font-face {
-    font-family: 'Calibri';
+    font-family: 'hehehe';
     src: url('assets/font/calibril.ttf'); 
     font-weight:100;
 }
@@ -60,35 +60,35 @@ body {
 }
 
 p{
-    font-family: "Calibri";
+    font-family: 'hehehe';
     font-weight: 100;
     color: #313131;
 }
 
 h1,
 .white {
-    font-family: "Calibri";
+    font-family: 'hehehe';
     color: #292929;
     font-weight: 600;
 }
 
 h2,
 .white {
-    font-family: "Calibri";
+    font-family: 'hehehe';
     font-weight: 400;
     color: #2a2a2a;
 }
 
 h3,
 .white {
-    font-family: "Calibri";
+    font-family: 'hehehe';
     font-weight: 400;
     color: #3e3e3e;
 }
 
 h3-dim,
 .white {
-    font-family: "Calibri";
+    font-family: 'hehehe';
     font-weight: 400;
     color: #414141;
 }
