@@ -242,6 +242,9 @@ li{
     .grid-hist {
         grid-template-columns: auto;
     }
+    .row-hist{
+        margin-left:0ex;
+    }
 
     .img-hist{
         /* aspect-ratio: 1.333; */
