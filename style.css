@@ -87,6 +87,13 @@ h3,
     color: #3e3e3e;
 }
 
+h2-dim,
+.white {
+    font-family: 'Noto Sans';
+    font-weight: 500;
+    color: #414141;
+}
+
 h3-dim,
 .white {
     font-family: 'Noto Sans';
@@ -165,6 +172,12 @@ a {
     margin-bottom: 10px;
 }
 
+.section-2 h2-dim {
+    font-size: 1.3rem;
+    color: #7c7c7c;
+    margin-bottom: 10px;
+}
+
 .section-2 h3 {
     font-size: 1.1rem;
     margin-bottom: 10px;
@@ -208,7 +221,7 @@ a {
 
 li{
     list-style: none;
-    padding-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
     border-left: 2px solid #7c7c7c;
     position: relative;
     padding-left: 20px;
@@ -237,6 +250,11 @@ li{
 @media(max-width:641px) {
     .grid-2 {
         grid-template-columns: 1fr;
+    }
+    li{
+        &:before{
+            top:7px
+        }
     }
 
     .grid-hist {
@@ -269,21 +287,30 @@ li{
     }
     
     .section-2 h1 {
-        font-size: 1.8rem;
+        font-size: 1.7rem;
         margin-right: -10ex;
     }
     
     .section-2 h2 {
-        font-size: 1.35rem;
+        font-size: 1.15rem;
+        margin-right: -10ex;
+    }
+    .section-2 h2-dim {
+        font-size: 1.15rem;
+        margin-right: -10ex;
+    }
+
+    .section-2 h3 {
+        font-size: 0.95rem;
         margin-right: -10ex;
     }
     
     .section-2 h3-dim {
-        font-size: 1.15rem;
+        font-size: 0.95rem;
         margin-right: -20ex;
     }
     .section-2 p {
-        font-size: 1.2rem;
+        font-size: 0.9rem;
         margin-right: -10ex;
     }
     
