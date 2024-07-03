@@ -5,21 +5,22 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&display=swap');*/
 /* @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap"); */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 @font-face {
-    font-family: 'hehehe';
+    font-family: 'cali';
     src: url('assets/font/calibrib.ttf'); 
     font-weight:600;
 }
 
 @font-face {
-    font-family: 'hehehe';
+    font-family: 'cali';
     src: url('assets/font/calibri.ttf'); 
     font-weight:400;
 }
 
 @font-face {
-    font-family: 'hehehe';
+    font-family: 'cali';
     src: url('assets/font/calibril.ttf'); 
     font-weight:100;
 }
@@ -32,7 +33,7 @@
 
 .grid-hist {
     display: grid;
-    grid-template-columns: 8% 90%;
+    grid-template-columns: 9% 90%;
     /* grid-template-columns: repeat(2, 1fr); */
 }
 
@@ -60,36 +61,36 @@ body {
 }
 
 p{
-    font-family: 'hehehe';
-    font-weight: 100;
-    color: #313131;
+    font-family: 'Noto Sans';
+    font-weight: 400;
+    color: #484848;
 }
 
 h1,
 .white {
-    font-family: 'hehehe';
+    font-family: 'Noto Sans';
     color: #292929;
     font-weight: 600;
 }
 
 h2,
 .white {
-    font-family: 'hehehe';
-    font-weight: 400;
+    font-family: 'Noto Sans';
+    font-weight: 500;
     color: #2a2a2a;
 }
 
 h3,
 .white {
-    font-family: 'hehehe';
-    font-weight: 400;
+    font-family: 'Noto Sans';
+    font-weight: 500;
     color: #3e3e3e;
 }
 
 h3-dim,
 .white {
-    font-family: 'hehehe';
-    font-weight: 400;
+    font-family: 'Noto Sans';
+    font-weight: 500;
     color: #414141;
 }
 
@@ -155,28 +156,28 @@ a {
 }
 
 .section-2 h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-bottom: 10px;
 }
 
 .section-2 h2 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     margin-bottom: 10px;
 }
 
 .section-2 h3 {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     margin-bottom: 10px;
 }
 
 .section-2 h3-dim {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     color: #7c7c7c;
     margin-bottom: 10px;
 }
 
 .section-2 p {
-    font-size: 1.15rem;
+    font-size: 0.95rem;
     padding-bottom: 10px;
     margin: 0;
 }
@@ -204,6 +205,7 @@ a {
     border-radius: 12px;
     position: relative;
 }
+
 li{
     list-style: none;
     padding-bottom: 1.5rem;
@@ -213,7 +215,7 @@ li{
     margin-left: 10px;
     &:last-child{
       /* border: 0px; */
-      padding-bottom: 0;
+      padding-bottom: 0px;
       /* margin-left: 12px; */
 
     }
@@ -228,7 +230,7 @@ li{
       border-radius: 0%;
       position: absolute;
       left: -5px;
-      top: 0px;
+      top: 6px;
     }
   }
 /* media queres */
